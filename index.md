@@ -1,3 +1,3 @@
 # welcome index.md !
-![image of Fallon Salomon](https://www.thespruce.com/thmb/oZslqieIXvx8FlpTnlJV-jp5Zcc=/3780x2520/filters:fill(auto,1)/do-ducks-have-teeth-4153828-hero-9614a7e9f4a049b48e8a35a9296c562c.jpg "duck")
+![image of Fallon Salomon](https://raw.githubusercontent.com/Fallons1/my-repo/main/68747470733a2f2f7777772e7468657370727563652e636f6d2f74686d622f6f5a736c7169654958767838466c70546e6c4a562d6a70355a63633d2f3337383078323532302f66696c746572733a66696c6c286175746f2c31292f646f2d6475636b732d686176652d7465.jpg "duck")
 [about us](about.md)
